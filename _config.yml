@@ -1,0 +1,8 @@
+title: Domènec Ruiz-Balet
+description: Lector at Universitat de Barcelona (Assistant Professor)
+theme: minima
+markdown: kramdown
+
+header_pages:
+  - index.md
+  - publications.md
