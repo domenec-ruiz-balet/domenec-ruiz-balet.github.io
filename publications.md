@@ -65,7 +65,7 @@ For an updated list check my [Google Scholar](https://scholar.google.com/citatio
 
 
 3. **Population Dynamics and the Tragedy of the Commons**  
-   [SIAM News, 2024](https://www.siam.org/publications/siam-news/articles/population-dynamics-and-the-tragedy-of-thecommons/](https://www.siam.org/publications/siam-news/articles/population-dynamics-and-the-tragedy-of-the-commons/) (with Z. Kobeissi, I. Mazari-Fouquer)
+   [SIAM News, 2024](https://www.siam.org/publications/siam-news/articles/population-dynamics-and-the-tragedy-of-the-commons/) (with Z. Kobeissi, I. Mazari-Fouquer)
 
 2. **Population dynamics, fisheries and the tragedy of the commons: A first mathematical analysis**  
    *European Communications in Mathematical and Theoretical Biology*, 26 (2023)  
