@@ -9,13 +9,13 @@ For an updated list check my [Google Scholar](https://scholar.google.com/citatio
 
 
 3. **A Total Variation Flow Scheme for Ergodic Mean-Field Games**  
-   [arXiv:2411.07331](https://arxiv.org/pdf/2411.07331) (with D. Kalise, A. Oliviero, D. Ruiz-Balet)
+   [arXiv:2411.07331](https://arxiv.org/pdf/2411.07331) (with D. Kalise and A. Oliviero)
 
 2. **Measure-to-measure interpolation using Transformers**  
-   [arXiv:2411.04551](https://arxiv.org/pdf/2411.04551) (with B. Geshkovski, P. Rigollet, D. Ruiz-Balet)
+   [arXiv:2411.04551](https://arxiv.org/pdf/2411.04551) (with B. Geshkovski and P. Rigollet)
 
 1. **Pattern control via diffusion interaction**  
-   [arXiv:2407.17514](https://arxiv.org/pdf/2407.17514) (with D. Ruiz-Balet, E. Zuazua)
+   [arXiv:2407.17514](https://arxiv.org/pdf/2407.17514) (with E. Zuazua)
 
 
 ---
