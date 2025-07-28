@@ -6,7 +6,7 @@ title: Home
 <div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 200px;">
-    <img src="/website/domenec_ruiz-balet-bw.jpg" alt="Domènec Ruiz-Balet" style="max-width: 100%; border-radius: 8px;">
+    <img src="/domenec-ruiz-balet.github.io/domenec_ruiz-balet-bw.jpg" alt="Domènec Ruiz-Balet" style="max-width: 100%; border-radius: 8px;">
   </div>
 
   <div style="flex: 2; min-width: 300px;">
