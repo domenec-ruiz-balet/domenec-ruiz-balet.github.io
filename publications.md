@@ -7,6 +7,8 @@ For an updated list check my [Google Scholar](https://scholar.google.com/citatio
 
 # 📝 Preprints
 
+4. **A Total Variation Flow Scheme for Ergodic Mean-Field Games**  
+   [arxiv:2508.09628](https://arxiv.org/pdf/2508.09628)) (with A. Alcalde and B. Geshkovski)
 
 3. **A Total Variation Flow Scheme for Ergodic Mean-Field Games**  
    [arXiv:2411.07331](https://arxiv.org/pdf/2411.07331) (with D. Kalise and A. Oliviero)
