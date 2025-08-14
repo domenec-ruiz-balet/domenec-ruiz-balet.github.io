@@ -7,7 +7,7 @@ For an updated list check my [Google Scholar](https://scholar.google.com/citatio
 
 # 📝 Preprints
 
-4. **A Total Variation Flow Scheme for Ergodic Mean-Field Games**  
+4. **Attention’s forward pass and Frank-Wolfe**  
    [arxiv:2508.09628](https://arxiv.org/pdf/2508.09628)) (with A. Alcalde and B. Geshkovski)
 
 3. **A Total Variation Flow Scheme for Ergodic Mean-Field Games**  
