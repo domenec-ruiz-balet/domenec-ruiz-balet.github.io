@@ -24,7 +24,7 @@ title: Home
 
     <p>
     You can reach me at:  
-    <br>📧 domenec.ruiz [at] gmail [dot] com  
+    <br>📧 domenec.ruizibalet [at] ub [dot] edu  
     <br>📍 Departament de Matemàtiques, Facultat de Matemàtiques i Informàtica, Gran Via de les Corts Catalanes, 585, 08007 Barcelona
     </p>
   </div>
