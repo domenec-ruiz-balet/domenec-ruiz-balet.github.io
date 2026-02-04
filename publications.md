@@ -6,6 +6,8 @@ title: Publications
 For an updated list check my [Google Scholar](https://scholar.google.com/citations?user=tgbnQ8cAAAAJ&hl=en)
 
 # 📝 Preprints
+5. **Perceptrons and localization of attention's mean-field landscape**  
+   [arxiv:2601.21366](https://arxiv.org/pdf/2601.21366) (with A. Álvarez-López and B. Geshkovski)
 
 4. **Attention’s forward pass and Frank-Wolfe**  
    [arxiv:2508.09628](https://arxiv.org/pdf/2508.09628) (with A. Alcalde and B. Geshkovski)
