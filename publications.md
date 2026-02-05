@@ -6,17 +6,14 @@ title: Publications
 For an updated list check my [Google Scholar](https://scholar.google.com/citations?user=tgbnQ8cAAAAJ&hl=en)
 
 # 📝 Preprints
-5. **Perceptrons and localization of attention's mean-field landscape**  
+4. **Perceptrons and localization of attention's mean-field landscape**  
    [arxiv:2601.21366](https://arxiv.org/pdf/2601.21366) (with A. Álvarez-López and B. Geshkovski)
 
-4. **Attention’s forward pass and Frank-Wolfe**  
+3. **Attention’s forward pass and Frank-Wolfe**  
    [arxiv:2508.09628](https://arxiv.org/pdf/2508.09628) (with A. Alcalde and B. Geshkovski)
 
-3. **A Total Variation Flow Scheme for Ergodic Mean-Field Games**  
+2. **A Total Variation Flow Scheme for Ergodic Mean-Field Games**  
    [arXiv:2411.07331](https://arxiv.org/pdf/2411.07331) (with D. Kalise and A. Oliviero)
-
-2. **Measure-to-measure interpolation using Transformers**  
-   [arXiv:2411.04551](https://arxiv.org/pdf/2411.04551) (with B. Geshkovski and P. Rigollet)
 
 1. **Pattern control via diffusion interaction**  
    [arXiv:2407.17514](https://arxiv.org/pdf/2407.17514) (with E. Zuazua)
@@ -25,6 +22,9 @@ For an updated list check my [Google Scholar](https://scholar.google.com/citatio
 ---
 
 # 📚 Publications
+
+13. **Measure-to-measure interpolation using Transformers**  
+   [arXiv:2411.04551](https://arxiv.org/pdf/2411.04551) (with B. Geshkovski and P. Rigollet) Accepted in Foundations of Computational Mathematics
 
 12. **Constructive approximate transport maps with normalizing flows**  
    [arXiv:2412.19366](https://arxiv.org/abs/2412.19366) (with A. Álvarez-López and B. Geshkovski) Accepted in Applied Mathematics and Optimization
