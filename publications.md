@@ -6,6 +6,9 @@ title: Publications
 For an updated list check my [Google Scholar](https://scholar.google.com/citations?user=tgbnQ8cAAAAJ&hl=en)
 
 # 📝 Preprints
+5. **Constructive conditional normalizing flows**  
+   [arxiv:2602.08606](https://arxiv.org/pdf/2602.08606) (with B. Geshkovski)
+   
 4. **Perceptrons and localization of attention's mean-field landscape**  
    [arxiv:2601.21366](https://arxiv.org/pdf/2601.21366) (with A. Álvarez-López and B. Geshkovski)
 
