@@ -6,15 +6,9 @@ title: Publications
 For an updated list check my [Google Scholar](https://scholar.google.com/citations?user=tgbnQ8cAAAAJ&hl=en)
 
 # 📝 Preprints
-5. **Constructive conditional normalizing flows**  
+3. **Constructive conditional normalizing flows**  
    [arxiv:2602.08606](https://arxiv.org/pdf/2602.08606) (with B. Geshkovski)
    
-4. **Perceptrons and localization of attention's mean-field landscape**  
-   [arxiv:2601.21366](https://arxiv.org/pdf/2601.21366) (with A. Álvarez-López and B. Geshkovski)
-
-3. **Attention’s forward pass and Frank-Wolfe**  
-   [arxiv:2508.09628](https://arxiv.org/pdf/2508.09628) (with A. Alcalde and B. Geshkovski)
-
 2. **A Total Variation Flow Scheme for Ergodic Mean-Field Games**  
    [arXiv:2411.07331](https://arxiv.org/pdf/2411.07331) (with D. Kalise and A. Oliviero)
 
@@ -26,46 +20,50 @@ For an updated list check my [Google Scholar](https://scholar.google.com/citatio
 
 # 📚 Publications
 
+15. **Perceptrons and localization of attention's mean-field landscape**  
+   [arxiv:2601.21366](https://arxiv.org/pdf/2601.21366) (with A. Álvarez-López and B. Geshkovski). Accepted in the International Conference on Machine Learning (ICML 2026)
+
+14. **Attention’s forward pass and Frank-Wolfe**  
+   [arxiv:2508.09628](https://arxiv.org/pdf/2508.09628) (with A. Alcalde and B. Geshkovski). Accepted in the International Conference on Machine Learning (ICML 2026)
+
 13. **Measure-to-measure interpolation using Transformers**  
-   [arXiv:2411.04551](https://arxiv.org/pdf/2411.04551) (with B. Geshkovski and P. Rigollet) Accepted in Foundations of Computational Mathematics
+   [DOI](https://doi.org/10.1007/s10208-026-09754-w) (with B. Geshkovski and P. Rigollet). Published in Foundations of Computational Mathematics
 
 12. **Constructive approximate transport maps with normalizing flows**  
-   [arXiv:2412.19366](https://arxiv.org/abs/2412.19366) (with A. Álvarez-López and B. Geshkovski) Accepted in Applied Mathematics and Optimization
+   [DOI](https://doi.org/10.1007/s00245-025-10299-7) (with A. Álvarez-López and B. Geshkovski). Published in Applied Mathematics & Optimization
 
 11. **Mean-field games for harvesting problems: Uniqueness, long-time behaviour and weak KAM theory**  
-   [arXiv:2406.06057](https://arxiv.org/pdf/2406.06057) (with Z. Kobeissi and I. Mazari-Fouquer) Accepted in Journal of Differential Equations
+   [DOI](https://doi.org/10.1016/j.jde.2025.113667) (with Z. Kobeissi and I. Mazari-Fouquer). Published in Journal of Differential Equations
 
 10. **The tragedy of the commons: A Mean-Field Game approach to the reversal of travelling waves**  
-    [DOI](https://doi.org/10.1088/1361-6544/ad7b97) (with Z. Kobeissi and I. Mazari)
+    [DOI](https://doi.org/10.1088/1361-6544/ad7b97) (with Z. Kobeissi and I. Mazari). Published in Nonlinearity
 
 9. **Control of Neural transport for Normalizing flows**  
-    [DOI](https://doi.org/10.1016/j.matpur.2023.10.005) (with  E. Zuazua)
+    [DOI](https://doi.org/10.1016/j.matpur.2023.10.005) (with E. Zuazua). Published in Journal de Mathématiques Pures et Appliquées
 
 8. **Neural ODE control for classification, approximation and transport**  
-   [DOI](https://doi.org/10.1137/21M141143) (with  E. Zuazua)
+   [DOI](https://doi.org/10.1137/21M1411433) (with E. Zuazua). Published in SIAM Review
 
 7. **Spatial ecology, optimal control and game theoretical fishing problems**  
-   [DOI](https://doi.org/10.1007/s00285-022-01829-w) (with I. Mazari)
+   [DOI](https://doi.org/10.1007/s00285-022-01829-w) (with I. Mazari). Published in Journal of Mathematical Biology
 
 6. **Constrained control of gene-flow models**  
-   [DOI](https://doi.org/10.4171/aihpc/52) (with I. Mazari andE. Zuazua)
+   [DOI](https://doi.org/10.4171/aihpc/52) (with I. Mazari and E. Zuazua). Published in Annales de l'Institut Henri Poincaré C, Analyse non linéaire
 
 5. **Control of certain parabolic models from biology and social sciences**  
-   [DOI](https://doi.org/10.3934/mcrf.2022032) (with E. Zuazua)
+   [DOI](https://doi.org/10.3934/mcrf.2022032) (with E. Zuazua). Published in Mathematical Control and Related Fields
 
 4. **Quantitative stability for eigenvalues of Schrödinger operator, Quantitative bathtub principle & Application to the turnpike property for a bilinear optimal control problem**  
-   [DOI](https://doi.org/10.1137/21M1393121) (with I. Mazari)
+   [DOI](https://doi.org/10.1137/21M1393121) (with I. Mazari). Published in SIAM Journal on Mathematical Analysis
 
 3. **Interpolation and approximation via Momentum ResNets and Neural ODEs**  
-   [DOI](https://doi.org/10.1016/j.sysconle.2022.105182) (with E. Affili and E. Zuazua)
+   [DOI](https://doi.org/10.1016/j.sysconle.2022.105182) (with E. Affili and E. Zuazua). Published in Systems & Control Letters
 
 2. **A fragmentation phenomenon for a nonenergetic optimal control problem: Optimization of the total population size in logistic diffusive models**  
-   [DOI](https://doi.org/10.1137/20M132818X) (with I. Mazari)
+   [DOI](https://doi.org/10.1137/20M132818X) (with I. Mazari). Published in SIAM Journal on Applied Mathematics
 
 1. **Control under constraints for multi-dimensional reaction-diffusion monostable and bistable equations**  
-   [DOI](https://doi.org/10.1016/j.matpur.2020.08.006) (with  E. Zuazua)
-
-
+   [DOI](https://doi.org/10.1016/j.matpur.2020.08.006) (with E. Zuazua). Published in Journal de Mathématiques Pures et Appliquées
 ---
 
 # 📎 Other
