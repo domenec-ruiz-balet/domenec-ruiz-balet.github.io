@@ -6,14 +6,12 @@ title: Publications
 For an updated list check my [Google Scholar](https://scholar.google.com/citations?user=tgbnQ8cAAAAJ&hl=en)
 
 # 📝 Preprints
-3. **Constructive conditional normalizing flows**  
+2. **Constructive conditional normalizing flows**  
    [arxiv:2602.08606](https://arxiv.org/pdf/2602.08606) (with B. Geshkovski)
    
-2. **A Total Variation Flow Scheme for Ergodic Mean-Field Games**  
+1. **A Total Variation Flow Scheme for Ergodic Mean-Field Games**  
    [arXiv:2411.07331](https://arxiv.org/pdf/2411.07331) (with D. Kalise and A. Oliviero)
 
-1. **Pattern control via diffusion interaction**  
-   [arXiv:2407.17514](https://arxiv.org/pdf/2407.17514) (with E. Zuazua)
 
 
 ---
