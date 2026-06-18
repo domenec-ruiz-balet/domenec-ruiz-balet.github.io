@@ -12,14 +12,11 @@ title: Home
   <div style="flex: 2; min-width: 300px;">
     <h1>Domènec Ruiz-Balet</h1>
 
-    <p>I am an Assistant Professor (Professor Lector) at the Universitat de Barcelona.</p>
+    <p>I am an Assistant Professor (Professor Lector) at the Universitat de Barcelona and researcher at Centre de Recerca Matemàtica.</p>
 
     <p>
-    My research focuses on the mathematics of machine learning, particularly on areas at the intersection of partial differential equations and dynamical systems, such as deep neural networks and transformers.
-    </p>
-
-    <p>
-    I am also interested in mathematical economics, especially in topics related to mean-field games and game theory more broadly.
+    My research lies in the mathematics of machine learning, at the interface of partial differential equations and dynamical systems. I work mainly on Neural ODEs, normalizing flows, and the mathematical analysis of transformer-based LLM architectures.
+    I also have a secondary interest in mathematical economics, particularly mean-field games.
     </p>
 
     <p>
